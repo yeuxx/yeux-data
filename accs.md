@@ -1,4 +1,4 @@
-### Regional Standings for Europe as of 2023-08-16
+### 
 
 | Standing | Points | Team Name            | Roster                                          |
 | -: | -: | :- | :- |
