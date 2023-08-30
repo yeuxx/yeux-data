@@ -1,13 +1,13 @@
 ### 
 
-| Standing | username | pass            | e mail                                          |
+|  |username | pass    |
 | -: | -: | :- | :- |
-|        1 |    15mayisacc_mdaw23 | 5x14mayis15asd6809878                 |         |
-|        2 |    985 | G2                   |                |
-|        3 |    965 | Vitality             |              |
-|        4 |    962 | Heroic               |             |
-|        5 |    900 | Astralis             |              |
-|        6 |    874 | Virtus.pro           |                    |
+|      15mayisacc_mdaw23 | 5x14mayis15asd6809878      |   
+|      13mayis_nouxacc4 |1x13xomayis609878    |    
+|       965 | Vitality             |         
+|        962 | Heroic               |       
+|        900 | Astralis             |          
+|       874 | Virtus.pro           |              
 
 
 
